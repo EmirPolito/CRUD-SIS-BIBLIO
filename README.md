@@ -11,8 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![PHPMailer](https://img.shields.io/badge/PHPMailer-SMTP-DD4B39?logo=gmail&logoColor=white)](https://github.com/PHPMailer/PHPMailer)
 
-<br />
-<br />
+<div/>
 
 **SIS-BIBLIO** es una plataforma integral desarrollada para la administración eficiente de una biblioteca, con un avanzado **Módulo de Seguridad Web**. Construido estrictamente con **PHP puro**, HTML5, CSS3, JavaScript Vanilla y MySQL (PDO), enfatizando las mejores prácticas de **Clean Code** y **Principios SOLID**.
 
