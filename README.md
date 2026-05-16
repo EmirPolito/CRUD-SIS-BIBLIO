@@ -11,7 +11,15 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![PHPMailer](https://img.shields.io/badge/PHPMailer-SMTP-DD4B39?logo=gmail&logoColor=white)](https://github.com/PHPMailer/PHPMailer)
 
-</div>
+<<<<<<< HEAD
+
+# </div>
+
+![448a24be-197c-4ca5-8f6f-0cf5e6452249](https://github.com/user-attachments/assets/49d68bce-f589-4d8f-8164-7885f29bdec8)
+
+# SIS-BIBLIO (Sistema de Gestión Bibliotecaria)
+
+> > > > > > > ba651d55aa1836d093fa4fb1154a832d4f3527d5
 
 <br />
 
@@ -117,5 +125,3 @@ La base de datos se entrega pre-poblada con 2 cuentas maestras:
 
 - GitHub: [@EmirPolito](https://github.com/EmirPolito)
 - LinkedIn: [Emir Polito](https://www.linkedin.com/in/emir-polito-g/)
-
-<br>
