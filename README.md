@@ -109,6 +109,6 @@ La base de datos se entrega pre-poblada con 2 cuentas maestras:
 
 **Emir Polito**
 
+- X: [@emirpolitog](https://x.com/emirpolitog)
 - GitHub: [@EmirPolito](https://github.com/EmirPolito)
 - LinkedIn: [emirpolitog](https://www.linkedin.com/in/emirpolitog/)
-- X: [@emirpolitog](https://x.com/emirpolitog)
