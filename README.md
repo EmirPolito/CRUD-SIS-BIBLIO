@@ -1,8 +1,5 @@
 <div align="center">
   <h2>SIS-BIBLIO - Sistema de Gestión Bibliotecaria</h2>
-</div>
-
-<div align="center">
 
 [![PHP](https://img.shields.io/badge/PHP-8+-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-PDO-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -11,11 +8,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![PHPMailer](https://img.shields.io/badge/PHPMailer-SMTP-DD4B39?logo=gmail&logoColor=white)](https://github.com/PHPMailer/PHPMailer)
 
-<div/>
-
 **SIS-BIBLIO** es una plataforma integral desarrollada para la administración eficiente de una biblioteca, con un avanzado **Módulo de Seguridad Web**. Construido estrictamente con **PHP puro**, HTML5, CSS3, JavaScript Vanilla y MySQL (PDO), enfatizando las mejores prácticas de **Clean Code** y **Principios SOLID**.
 
-<br />
+</div>
+
 <br />
 
 ![448a24be-197c-4ca5-8f6f-0cf5e6452249](https://github.com/user-attachments/assets/49d68bce-f589-4d8f-8164-7885f29bdec8)
