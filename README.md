@@ -8,9 +8,9 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![PHPMailer](https://img.shields.io/badge/PHPMailer-SMTP-DD4B39?logo=gmail&logoColor=white)](https://github.com/PHPMailer/PHPMailer)
 
-**SIS-BIBLIO** es una plataforma integral desarrollada para la administración eficiente de una biblioteca, con un avanzado **Módulo de Seguridad Web**. Construido estrictamente con **PHP puro**, HTML5, CSS3, JavaScript Vanilla y MySQL (PDO), enfatizando las mejores prácticas de **Clean Code** y **Principios SOLID**.
-
 </div>
+
+**SIS-BIBLIO** es una plataforma integral desarrollada para la administración eficiente de una biblioteca, con un avanzado **Módulo de Seguridad Web**. Construido estrictamente con **PHP puro**, HTML5, CSS3, JavaScript Vanilla y MySQL (PDO), enfatizando las mejores prácticas de **Clean Code** y **Principios SOLID**.
 
 <br />
 
@@ -107,7 +107,8 @@ La base de datos se entrega pre-poblada con 2 cuentas maestras:
 
 ## Desarrollador
 
-**Emir Polito** - Desarrollador Fullstack & QA Tester.
+**Emir Polito**
 
 - GitHub: [@EmirPolito](https://github.com/EmirPolito)
-- LinkedIn: [Emir Polito](https://www.linkedin.com/in/emir-polito-g/)
+- LinkedIn: [emirpolitog](https://www.linkedin.com/in/emirpolitog/)
+- X: [@emirpolitog](https://x.com/emirpolitog)
