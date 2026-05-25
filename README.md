@@ -1,6 +1,6 @@
 <div align="center">
 
-# SIS-BIBLIO
+# SIS BIBLIO
 [![PHP](https://img.shields.io/badge/PHP-8+-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-PDO-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -12,7 +12,7 @@
 
 ---
 
-**SIS-BIBLIO** es una plataforma desarrollada para la administración eficiente de bibliotecas, integrando un sistema de autenticación seguro, gestión de préstamos y control de usuarios mediante una arquitectura construida completamente con **PHP puro**, MySQL y JavaScript Vanilla.
+**SIS BIBLIO** es una plataforma desarrollada para la administración eficiente de bibliotecas, integrando un sistema de autenticación seguro, gestión de préstamos y control de usuarios mediante una arquitectura construida completamente con **PHP puro**, MySQL y JavaScript Vanilla.
 
 <br>
 
