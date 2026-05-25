@@ -107,6 +107,12 @@ http://localhost/CRUD-SIS-BIBLIO-Publico/index.php
 
 ---
 
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE)
+
+---
+
 ## Desarrollador
 
 **Emir Polito** - Frontend & QA Tester
